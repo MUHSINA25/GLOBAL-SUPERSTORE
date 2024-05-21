@@ -1,4 +1,6 @@
 # GLOBAL-SUPERSTORE
+
+DATA STORY TELLING LINK:
 This Power BI project analyzes sales data for a global retail store. The program includes:
 
 * Data Cleaning: 
