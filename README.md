@@ -1,23 +1,62 @@
 # GLOBAL-SUPERSTORE
 
-LINK:
+Overview
+This project presents a comprehensive sales analysis for a global super store with branches all over the world. The goal is to provide detailed insights into sales transactions, segmented by country, region, and market, and to analyze shipping methods.
 
-This Power BI project analyzes sales data for a global retail store. The program includes:
+Project Details
+Dashboard Highlights
+Total Sales and Quantity:
 
-* Data Cleaning: 
+Total Sales: $12.64 million
+Total Quantity Sold: 1.47 million units
+Profit Analysis:
 
-Ensures data accuracy by removing duplicates, handling missing values, and correcting data types.
+Total Profit: $2.93 million (displayed using a gauge)
+Returns Analysis:
 
-* Visualizations:
+Total Returns: 1,173
+Top 20 Countries by Sales:
 
-Sales segmented by country, region, and market.
-Shipping mode distribution analysis.
-Geographic sales analysis by city and state.
+Leading countries: United States, Australia, France
+Yearly Sales Analysis:
 
-* Interactive Dashboard:
+Filter sales data by year to observe yearly performance trends
+Sales by Region:
 
-An interactive report for stakeholders to explore data insights.
+Central South America shows the highest sales
+Market Analysis:
 
-* Video Explanation: 
+Top market sales approximately $3.59 million
+Shipping Modes Analysis:
 
-A comprehensive video walkthrough of the report's features and insights.
+Distribution of sales by shipping mode: Standard Class, Second Class, First Class, Same Day
+Detailed Tables
+Sales by Country
+Sales by Region
+Sales by Market
+Additional Insights (Page 2)
+Top 20 Cities by Sales:
+
+Leading cities: New York City, Los Angeles, Manila
+Sales by Segment:
+
+Best segment: Consumer
+Sales by Region (Tree Map):
+
+Confirming Central South America as the leading region
+Top 20 States by Sales:
+
+Leading state: England
+Further Insights (Page 3)
+Top 5 Discountable Products
+
+Top Best-Selling Products
+
+Top 5 Customers by Profit
+
+Sales by Country (Map):
+
+United States as the top-performing country
+Shipping Cost by Shipping Mode:
+
+Standard Class has the highest shipping cost
