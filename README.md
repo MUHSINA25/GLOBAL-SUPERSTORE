@@ -1,5 +1,5 @@
 # GLOBAL-SUPERSTORE
-
+https://drive.google.com/file/d/1gs6v-kP9tBJ-YjXW3xLCIVEqBPu-UB4V/view?usp=sharing
 Overview
 This project presents a comprehensive sales analysis for a global super store with branches all over the world. The goal is to provide detailed insights into sales transactions, segmented by country, region, and market, and to analyze shipping methods.
 
